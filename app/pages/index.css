@@ -1,0 +1,9 @@
+.index {
+  text-align: center;
+  background-image: "url(https://www.genekor.com/media/1301/3d-background-with-rotating-dna-string-4k-ultra-hd-alpha-channel-dna-technology-helix-strands-science-technology-animated-background_eyppyv1-g__f0000.png)";
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+}
